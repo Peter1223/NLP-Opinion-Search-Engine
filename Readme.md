@@ -11,7 +11,7 @@ Before running any code, please follow these setup steps to ensure the project d
 
 ### **Step 1: Final Folder and File Structure**
 
-After unzipping the submission file, your main project folder should be organized as follows. You will need to add the `reviews.csv` file and the `opinion-lexicon-English` folder yourself.
+Your main project folder should be organized as follows. You will need to add the `reviews.csv` file and the `opinion-lexicon-English` folder yourself.
 
 Your_Project_Folder/
 |
@@ -37,10 +37,12 @@ Your_Project_Folder/
  
 ### **Step 2: Add Required Data and Lexicon**
 
-The dataset and lexicon are not included in the submission per project instructions. Please place them in the main project folder as shown above.
+The dataset and lexicon are not included. Please place them in the main project folder as shown above.
 
-1.  **Dataset**: Place the `reviews.csv` file in the main project directory.
+1.  **Dataset**: Place the `reviews.csv` file in the main project directory.The dataset is a version of the Amazon Review Data, which can be found at its official source:
+- **Official Source:** [(https://cseweb.ucsd.edu/~jmcauley/datasets.html#amazon_review)]
 2.  **Lexicon**: Place the `opinion-lexicon-English` folder (containing `positive-words.txt` and `negative-words.txt`) in the main project directory.
+- **Official Source:** [(http://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html)]
 
 ### **Step 3: Install Required Libraries**
 
