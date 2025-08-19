@@ -1,0 +1,6 @@
+# Ignore large data files
+cleaned_reviews.csv
+reviews.csv
+
+# Ignore saved model files
+*.pkl
